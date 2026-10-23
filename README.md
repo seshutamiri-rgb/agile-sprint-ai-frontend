@@ -20,6 +20,13 @@ The application is designed as a portfolio project demonstrating the integration
 
 ## Architecture
 
+The following diagram illustrates the high-level architecture of the Agile Sprint Planning AI Assistant, from user authentication through AI-powered sprint plan generation.
+
+![Agile Sprint AI Architecture](docs/architecture.png)
+
+
+## Architecture
+
 ```text
 User
  |

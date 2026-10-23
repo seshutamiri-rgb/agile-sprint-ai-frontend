@@ -51,7 +51,11 @@ The output is a planning recommendation, not an automatically approved sprint co
 
 ### 3. Generated Sprint Plan
 
-![AI-generated sprint plan](docs/generated-sprint-plan.png)
+![AI-generated sprint plan](docs/generated-sprint-plan-1.png)
+
+### 4. Generated Sprint Plan
+
+![AI-generated sprint plan](docs/generated-sprint-plan-2.png)
 
 ### Request Flow
 

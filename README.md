@@ -39,6 +39,19 @@ The output is a planning recommendation, not an automatically approved sprint co
 ## Architecture
 
 ![Agile Sprint AI architecture](docs/architecture.png)
+## Application Screenshots
+
+### 1. Sign-in
+
+![Agile Sprint AI sign-in screen](docs/login-screen.png)
+
+### 2. Sprint Planning Form
+
+![Agile Sprint AI sprint planning form](docs/sprint-planning-form.png)
+
+### 3. Generated Sprint Plan
+
+![AI-generated sprint plan](docs/generated-sprint-plan.png)
 
 ### Request Flow
 
